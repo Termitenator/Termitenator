@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheDreamComing
+- 👋 Hi, I’m @PandeLorenzo
 - 👀 I’m interested in become fullstack developer and game programing
-- 🌱 I’m currently learning php, javascript, c++. i learn this in my school and university
+- 🌱 I’m currently learning php, javascript, c++, c#. i learn this in my school and university
 - 💞️ I’m looking to collaborate on nothing because i'm newbie
 - 📫 How to reach me just email me in termitenator42@gmail.com
 
