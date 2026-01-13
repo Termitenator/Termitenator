@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PandeLorenzo
-- 👀 I’m interested in become fullstack web develop
+- 👀 I’m interested in become frontend web developer ('Learning to become fullstack')
 - 🌱 I’m currently learning NextJs, Tailwind. i learn this in my university
 - 💞️ I’m looking to collaborate on nothing because i'm newbie
 - 📫 How to reach me just email me in termitenator42@gmail.com
